@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="rule.css" ?>
+<setlist>
+    <heading> Setlist:</heading>
+    <song>
+        <h1>Title:</h1> <title>  Here Comes The Sun</title> 
+        <h1>Artist:</h1><artist> The Beatles</artist>
+        <h1>Genre:</h1><genre> Rock </genre>
+        <h1>Year of release:</h1><yor>1969</yor>
+       
+    </song>
+    <br></br>
+    <song>
+        
+        <h1>Title:</h1><title>  Norwegian Wood</title>
+        <h1>Artist:</h1><artist> The Beatles</artist>
+        <h1>Genre:</h1><genre> Rock</genre>
+        <h1>Year of release</h1><yor>1965</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1>Title:</h1><title>  Yesterday</title>
+       <h1>Artist: </h1><artist> The Beatles</artist>
+       <h1>Genre: </h1><genre> Pop</genre>
+       <h1>Year of release: </h1><yor>1965</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1>Title: </h1><title>  Viva La Vida</title>
+       <h1>Artist: </h1><artist> Coldplay</artist>
+       <h1>Genre: </h1><genre> Pop</genre>
+       <h1>Year of release: </h1><yor>2008</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1>Title: </h1><title>A Change is Gonna Come </title>
+       <h1>Artist: </h1><artist> Sam Cooke</artist>
+       <h1>Genre: </h1><genre>R &amp; B </genre>
+       <h1>Year of release: </h1><yor>1964</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1> Title:</h1><title>  L-O-V-E</title>
+       <h1> Artist:</h1><artist>Nat King Cole </artist>
+       <h1> Genre:</h1><genre> Jazz</genre>
+       <h1> Year of release:</h1><yor>1965</yor>
+    </song>
+    <br></br>
+    <song>
+        
+        <h1>Title:</h1><title> Gravity </title>
+       <h1> Artist:</h1><artist>John Mayer </artist>
+       <h1> Genre:</h1><genre> Pop</genre>
+       <h1> Year of release:</h1><yor>2005</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1>Title: </h1><title>Your Song </title>
+       <h1>Artist: </h1><artist> Elton John</artist>
+       <h1>Genre: </h1><genre>Rock</genre>
+       <h1>Year of release: </h1><yor>1970</yor>
+    </song>
+    <br></br>
+    <song>
+        
+       <h1>Title: </h1><title> Yellow</title>
+       <h1>Artist: </h1><artist>Coldplay</artist>
+       <h1>Genre: </h1><genre>Pop</genre>
+       <h1>Year of release: </h1><yor>2000</yor>
+    </song>
+    <br/>
+    <song>
+        
+        <h1>Title:</h1><title> The Boxer</title>
+        <h1>Artist:</h1><artist>Simon &amp; Garfunkel</artist>
+        <h1>Genre:</h1><genre>Folk</genre>
+       <h1> Year of release:</h1><yor>1970</yor>
+    </song>
+</setlist>
