@@ -1,0 +1,39 @@
+setlist
+{
+background-color: whitesmoke;
+text-align: center;
+
+}
+song
+{
+    color: rgb(16, 92, 155);
+    font-size: 100%;
+    display: block;
+    margin-top: 30pt;
+    
+}
+title,artist,genre, yor
+{
+    clear: right;
+    display: block;
+    color: rgb(46, 44, 44);
+    padding-left: 0%;
+    
+}
+heading
+{
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    overflow: hidden;
+  }
+h1
+{
+    display: flexbox;
+    float: left;
+    margin-right: -50%;
+    margin-left: 35%;
+    
+}
